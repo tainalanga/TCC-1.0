@@ -15,7 +15,7 @@
 
         public function checarLogin(){
             // if blablabla
-            $this->tpl->CONTENT = $this->templates['dashboard'];
+            $this->tpl->CONTENT = $this->templates['perfil'];
         }
     }
 
